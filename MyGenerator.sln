@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGenerator", "MyGenerator\MyGenerator.csproj", "{366B6BD4-A9E9-45CC-BD35-9767FF068383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSA", "RSA\RSA.csproj", "{8DB8444F-381A-4A8C-81E9-B578DCB96CAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encryption", "Encryption\Encryption.csproj", "{E9A91239-645F-443C-911F-2135F9DD8B54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{366B6BD4-A9E9-45CC-BD35-9767FF068383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{366B6BD4-A9E9-45CC-BD35-9767FF068383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{366B6BD4-A9E9-45CC-BD35-9767FF068383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{366B6BD4-A9E9-45CC-BD35-9767FF068383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DB8444F-381A-4A8C-81E9-B578DCB96CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB8444F-381A-4A8C-81E9-B578DCB96CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB8444F-381A-4A8C-81E9-B578DCB96CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB8444F-381A-4A8C-81E9-B578DCB96CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9A91239-645F-443C-911F-2135F9DD8B54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9A91239-645F-443C-911F-2135F9DD8B54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9A91239-645F-443C-911F-2135F9DD8B54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9A91239-645F-443C-911F-2135F9DD8B54}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
